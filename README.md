@@ -165,10 +165,10 @@ Thanks go to these wonderful people:
 	<tbody>
 		<tr>
             <td align="center">
-                <a href="https://github.com/tuanngocptn">
-                    <img src="https://avatars.githubusercontent.com/u/22292704?v=4" width="100;" alt="tuanngocptn"/>
+                <a href="https://github.com/msyaifullah">
+                    <img src="https://avatars.githubusercontent.com/u/5312899?v=4" width="100;" alt="msyaifullah"/>
                     <br />
-                    <sub><b>Nick - Ngoc Pham</b></sub>
+                    <sub><b>masykuri syaifullah</b></sub>
                 </a>
             </td>
             <td align="center">
@@ -190,6 +190,13 @@ Thanks go to these wonderful people:
                     <img src="https://avatars.githubusercontent.com/u/8895636?v=4" width="100;" alt="Bassiuz"/>
                     <br />
                     <sub><b>Bas de Vaan</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/tuanngocptn">
+                    <img src="https://avatars.githubusercontent.com/u/22292704?v=4" width="100;" alt="tuanngocptn"/>
+                    <br />
+                    <sub><b>Nick - Ngoc Pham</b></sub>
                 </a>
             </td>
 		</tr>
